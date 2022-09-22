@@ -1,7 +1,7 @@
 # Dynamic-Movement-Premitives:DMP
 This repo is based on Imitation Learning using Learning from Demonstration(LfD)
 
-mitation learning:
+Imitation learning:
 
 Learning from Demonstration(LfD):-
 
