@@ -23,8 +23,7 @@ Issue I am facing currently:
 Gripper not working: 
 >>>is_gripper_moving
 0
-I contacted elephant robotics and they said they will send a new one if during the ATOM does work.
-Gripper open and close as service :: To Sort out
+---Burn ATOM to its latest version 4.2
 
 I was just wondering if we could do something with this in Freshers’ stall to demonstrate and introduce students with mycobot as not every students are familiar with this to be fair. The dmp graphs are good so that we can put it under display if you want or think about it.
 
