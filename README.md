@@ -17,19 +17,17 @@ It is able to imitate hand wave trajectory. So if I put a palm structure on it g
 Attach pic
 
 
-Dmp visualisation:
+Dmp visualisation:-
 Show outputs
 Show plots
 Attach pic
 
-
-Issue I am facing currently:
-Gripper not working: 
+Gripper not working issue solved! 
 >>>is_gripper_moving
 0
 ---Burn ATOM to its latest version 4.2
-
-I was just wondering if we could do something with this in Freshers’ stall to demonstrate and introduce students with mycobot as not every students are familiar with this to be fair. The dmp graphs are good so that we can put it under display if you want or think about it.
+>>>is_gripper_moving
+1
 
 Future aspect: putting vision 
 After I sort this gripper issue, it would be ready but I was thinking to put computer vision so that it can automatically pick (no need to give pick position anymore) and place to the given place position. 
