@@ -21,10 +21,10 @@ Attach pic
 
 - [x] In Pick and place I got an idea of Food unloading to a dish from a microwave where pick pose would be the food inside the microwave and the place pose would be the plate position.
 
-  **_Demonstration_:-**
+**_Demonstration_:-**
 ![demo]()
 
-  **_Learning curves_:-**
+**_Learning curves_:-**
 ![curves]()
 
 ***Application2:-*** **Wave gesture**
