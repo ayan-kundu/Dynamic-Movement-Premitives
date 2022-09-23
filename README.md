@@ -1,7 +1,16 @@
 # Dynamic-Movement-Premitives:DMP
 ## >>This repo is based on Imitation Learning using Learning from Demonstration(LfD)<<
 
-#### Imitation learning:
+### Step by Step guidance to work withthe model:
+  1. Get the catkinworkspace ready
+  2. launch dmp.launch. Make sure there remains no same name file.
+  3. open terminal run the python file: dmp_test.py If you name it dmp.py it will make confusion in the ROS so it's better you name it other than dmp.py for sure
+  4. when launch file is running, then only this python file will work as it will call required services when launch is ready.
+  5. Feed Demonstation trajectoy to the model when you run it. It also requires to take a new pick and place pose you want the robot to follow.
+  6. It will learn from the demo and will give you a suitable trajectory starting from your given pick and ending with the given place pose.
+  
+  The learning model is Dynamic Premitive Movement model.It takes a single trajetory and tries to learn from that.That is the drawback in case of perturbation. Having a look at the learning graphs attached, you can figure out that the model is working well. 
+#### Insight of the Imitation learning:
 
 **Learning from Demonstration(LfD):-**
 
@@ -11,19 +20,24 @@ The graphs I attached is made using pic and place operation. These graphs shows 
 Attach pic
 
 - [x] In Pick and place I got an idea of Food unloading to dish from microwave where pick pose would be the food inside the microwave and the place pose would be the plate position.
-Attach pic
 
+_Demonstration_
+![]()
+
+- [ ] Learning curves
+![]()
 
 ***Application2:-*** **Wave gesture**
 
 It is able to imitate hand wave trajectory. So if I put a palm structure on it gripper it can wave from any position and it will carry on waving for a certain time irrespective if its initial body pose. 
-Attach pic
 
+_Demonstration_
+![]()
 
 ***Dmp visualisation:-***
-Show outputs
-Show plots
-Attach pic
+![Show outputs]()
+![Show plots]()
+![Attach pic]()
 
 **Wellknown Gripper Issue**
 :+1:_Gripper not working issue solved!_ 
