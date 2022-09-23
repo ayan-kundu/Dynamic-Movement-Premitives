@@ -1,7 +1,7 @@
 # Dynamic-Movement-Premitives:DMP
 ## >>This repo is based on Imitation Learning using Learning from Demonstration(LfD)<<
 
-### Refer to [Setup Mycobot](https://github.com/ayan-kundu/Mycobot-280-pi) to set up the robot 
+### Refer to [Setup Mycobot](https://github.com/ayan-kundu/Mycobot-280-pi) to set up the robot at first
 ### Step by Step guidance to work with LfD, in this case it's DMP:
   1. Get the catkinworkspace ready. Focus on 'dmp' dir here for that
   2. launch dmp.launch. Make sure there remains no same name file.
