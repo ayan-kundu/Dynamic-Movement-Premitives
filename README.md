@@ -14,7 +14,7 @@
 
 1. **Learning from Demonstration(LfD):-**
 
-***Application1:-*** **<u>Pick and place</u>**
+***Application1:-*** **Pick and place**
 
 The graphs I attached is made using pic and place operation. These graphs shows a good amount of imitation learning, the robot is capable of.
 Attach pic
