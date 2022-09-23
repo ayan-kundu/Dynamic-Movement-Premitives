@@ -35,7 +35,7 @@ It is able to imitate hand wave trajectory. So if I put a palm structure on it g
 
 ![demo]()
 
-**Dmp visualisation:-**
+### Dmp visualisation:- ###
 
 ![Show outputs]()
 
