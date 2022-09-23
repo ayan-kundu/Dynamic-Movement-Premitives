@@ -21,23 +21,26 @@ Attach pic
 
 - [x] In Pick and place I got an idea of Food unloading to dish from microwave where pick pose would be the food inside the microwave and the place pose would be the plate position.
 
-_Demonstration_
+**_Demonstration_**
 ![demo]()
 
-- [ ] Learning curves
+- [ ] **Learning curves**
 ![curves]()
 
 ***Application2:-*** **Wave gesture**
 
 It is able to imitate hand wave trajectory. So if I put a palm structure on it gripper it can wave from any position and it will carry on waving for a certain time irrespective if its initial body pose. 
 
-_Demonstration_
+**_Demonstration_**
 
 ![demo]()
 
 ***Dmp visualisation:-***
+
 ![Show outputs]()
+
 ![Show plots]()
+
 ![Attach pic]()
 
 **Wellknown Gripper Issue**
