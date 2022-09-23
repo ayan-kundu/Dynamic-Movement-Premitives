@@ -1,9 +1,9 @@
 # Dynamic-Movement-Premitives:DMP
-This repo is based on Imitation Learning using Learning from Demonstration(LfD)
+## This repo is based on Imitation Learning using Learning from Demonstration(LfD)
 
-Imitation learning:
+#### Imitation learning:
 
-Learning from Demonstration(LfD):-
+**Learning from Demonstration(LfD):-**
 
 Application1:- Pick and place
 The graphs I attached is made using pic and place operation. These graphs shows a good amount of imitation learning, the robot is capable of.
