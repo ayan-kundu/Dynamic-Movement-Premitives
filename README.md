@@ -21,10 +21,10 @@ Attach pic
 
 - [x] In Pick and place I got an idea of Food unloading to dish from microwave where pick pose would be the food inside the microwave and the place pose would be the plate position.
 
-**_Demonstration_**
+**_Demonstration_:-**
 ![demo]()
 
-**Learning curves**
+**_Learning curves_:-**
 ![curves]()
 
 ***Application2:-*** **Wave gesture**
@@ -35,7 +35,7 @@ It is able to imitate hand wave trajectory. So if I put a palm structure on it g
 
 ![demo]()
 
-***Dmp visualisation:-***
+**Dmp visualisation:-**
 
 ![Show outputs]()
 
