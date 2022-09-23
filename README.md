@@ -25,8 +25,8 @@ Show outputs
 Show plots
 Attach pic
 
+:+1:_Gripper not working issue solved!_ 
 ```
-_Gripper not working issue solved!_ 
 is_gripper_moving
 0
 - [x] Burn ATOM to its latest version 4.2
