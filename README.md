@@ -24,7 +24,7 @@ Attach pic
 **_Demonstration_**
 ![demo]()
 
-- [ ] **Learning curves**
+**Learning curves**
 ![curves]()
 
 ***Application2:-*** **Wave gesture**
