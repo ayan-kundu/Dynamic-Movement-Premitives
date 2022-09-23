@@ -32,8 +32,7 @@ Attach pic
 It is able to imitate hand wave trajectory. So if I put a palm structure on it gripper it can wave from any position and it will carry on waving for a certain time irrespective if its initial body pose. 
 
   **_Demonstration_**
-
-![demo]()
+  ![demo]()
 
 2. ***Dmp visualisation:- ***
 
