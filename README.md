@@ -2,7 +2,7 @@
 ## >>This repo is based on Imitation Learning using Learning from Demonstration(LfD)<<
 
 ### Step by Step guidance to work withthe model:
-  1. Get the catkinworkspace ready
+  1. Get the catkinworkspace ready. Focus on 'dmp' dir here for that
   2. launch dmp.launch. Make sure there remains no same name file.
   3. open terminal run the python file: dmp_test.py If you name it dmp.py it will make confusion in the ROS so it's better you name it other than dmp.py for sure
   4. when launch file is running, then only this python file will work as it will call required services when launch is ready.
