@@ -27,12 +27,14 @@ Attach pic
   **_Learning curves_:-**
 ![curves]()
 
-  **_Demonstration_:-**
-  ![demo]()
-
 ***Application2:-*** **Wave gesture**
 
 It is able to imitate hand wave trajectory. So if I put a palm structure on it gripper it can wave from any position and it will carry on waving for a certain time irrespective if its initial body pose. 
+
+  **_Demonstration_:-**
+  ![demo]()
+
+
 
 
 
