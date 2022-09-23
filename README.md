@@ -6,6 +6,7 @@
 **Learning from Demonstration(LfD):-**
 
 ***Application1:-*** **Pick and place**
+
 The graphs I attached is made using pic and place operation. These graphs shows a good amount of imitation learning, the robot is capable of.
 Attach pic
 
@@ -14,21 +15,24 @@ Attach pic
 
 
 ***Application2:-*** **Wave gesture**
+
 It is able to imitate hand wave trajectory. So if I put a palm structure on it gripper it can wave from any position and it will carry on waving for a certain time irrespective if its initial body pose. 
 Attach pic
 
 
-****Dmp visualisation:-***
+***Dmp visualisation:-***
 Show outputs
 Show plots
 Attach pic
 
+```
 _Gripper not working issue solved!_ 
->>>is_gripper_moving
+is_gripper_moving
 0
 - [x] Burn ATOM to its latest version 4.2
->>>is_gripper_moving
+is_gripper_moving
 1
-
+```
 > What's Coming next: putting vision in it 
+
 With computer vision(Employing a camera on ATOM) it would automatically pick (no need to give pick position anymore) and place to the given place position. 
