@@ -29,7 +29,9 @@ Attach pic
 ```
 is_gripper_moving
 0
-- [x] Burn ATOM to its latest version 4.2
+```
+:+1:Burn ATOM to its latest version 4.2**
+```
 is_gripper_moving
 1
 ```
