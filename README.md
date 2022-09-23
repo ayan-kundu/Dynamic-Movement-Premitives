@@ -25,6 +25,7 @@ Show outputs
 Show plots
 Attach pic
 
+**Wellknown Gripper Issue**
 :+1:_Gripper not working issue solved!_ 
 ```
 is_gripper_moving
@@ -34,6 +35,8 @@ is_gripper_moving
 ```
 is_gripper_moving
 1
+
+OTHERWISE, try change gripper
 ```
 > What's Coming next: putting vision in it 
 
