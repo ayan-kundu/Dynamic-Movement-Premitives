@@ -33,22 +33,24 @@ Attach pic
 It is able to imitate hand wave trajectory. So if I put a palm structure on it gripper it can wave from any position and it will carry on waving for a certain time irrespective if its initial body pose. 
 
   **_Demonstration_:-**
-  ![demo]()
 
+![Demo](https://github.com/ayan-kundu/Dynamic-Movement-Premitives/blob/main/Demonstations/IMG_1380.HEIC)
 
+For more...
+Refer to demonstation dir (https://github.com/ayan-kundu/Dynamic-Movement-Premitives/tree/main/Demonstations)
 
 
 
 2. **Dmp visualisation:-**
-<P>[Demo vs DMP TRAJECTORY Comparison...]</P>
+<P> >>> Demo vs DMP TRAJECTORY Comparison... </P>
 
 ![Demo vs DMP](https://github.com/ayan-kundu/Dynamic-Movement-Premitives/blob/main/Visualisations/Screenshot%202022-09-27%20at%2013.22.32.png)
 
-<P>[Testing DMP giving unique positions...]</P>
+<P> >>> Testing DMP giving unique positions </P>
 
 ![DMP testing giving unique positions](https://github.com/ayan-kundu/Dynamic-Movement-Premitives/blob/main/Visualisations/Screenshot%202022-09-27%20at%2013.18.10.png)
 
-<P>[DMP vs Ideal pick and place pose Comparison...]</P>
+<P> >>> DMP vs Ideal pick and place pose Comparison... </P>
 
 ![Ideal vs DMP pick-n-place comparison](https://github.com/ayan-kundu/Dynamic-Movement-Premitives/blob/main/Visualisations/Screenshot%202022-09-25%20at%2012.53.48.png)
 
