@@ -41,11 +41,11 @@ It is able to imitate hand wave trajectory. So if I put a palm structure on it g
 
 2. **Dmp visualisation:-**
 
-![Show outputs]()
+![Demo vs DMP](https://github.com/ayan-kundu/Dynamic-Movement-Premitives/blob/main/Visualisations/Screenshot%202022-09-27%20at%2013.22.32.png)
 
-![Show plots]()
+![DMP testing giving unique positions](https://github.com/ayan-kundu/Dynamic-Movement-Premitives/blob/main/Visualisations/Screenshot%202022-09-27%20at%2013.18.10.png)
 
-![Attach pic]()
+![Ideal vs DMP pick-n-place comparison](https://github.com/ayan-kundu/Dynamic-Movement-Premitives/blob/main/Visualisations/Screenshot%202022-09-25%20at%2012.53.48.png)
 
 3. **Wellknown Gripper Issue**
 :+1:_Gripper not working issue solved!_ 
