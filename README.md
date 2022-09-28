@@ -24,7 +24,7 @@ Attach pic
 
 **_Learning curves_:-**
 
-![curves]()
+![curves](https://github.com/ayan-kundu/Dynamic-Movement-Premitives/blob/main/Visualisations/LearningCurve/Screenshot%202022-09-28%20at%2010.23.45.png)
 
   **_Demonstration_:-**
 
