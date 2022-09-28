@@ -22,16 +22,18 @@ Attach pic
 
 - [x] In Pick and place I got an idea of Food unloading to a dish from a microwave where pick pose would be the food inside the microwave and the place pose would be the plate position.
 
-**_Learning curves_:-**
-
-![curves](https://github.com/ayan-kundu/Dynamic-Movement-Premitives/blob/main/Visualisations/LearningCurve/Screenshot%202022-09-28%20at%2010.23.45.png)
-
-  **_Demonstration_:-**
+**_Demonstration_:-**
 
 [Object Picked]<p align="center"><img src="https://github.com/ayan-kundu/Dynamic-Movement-Premitives/blob/main/Demonstations/IMG-1380.jpg" width=65% height=50%></p>
 
 For more...
 Refer to demonstation dir (https://github.com/ayan-kundu/Dynamic-Movement-Premitives/tree/main/Demonstations)
+
+
+**Pick-n-place _Learning curves_:-**
+
+![curves](https://github.com/ayan-kundu/Dynamic-Movement-Premitives/blob/main/Visualisations/LearningCurve/Screenshot%202022-09-28%20at%2010.23.45.png)
+
 
 ***Application2:-*** **Wave gesture**
 
