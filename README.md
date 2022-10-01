@@ -27,7 +27,7 @@ Attach pic
 [Object Picked]<p align="center"><img src="https://github.com/ayan-kundu/Dynamic-Movement-Premitives/blob/main/Demonstations/IMG-1380.jpg" width=65% height=50%></p>
 
 For more...
-Refer to demonstation dir (https://github.com/ayan-kundu/Dynamic-Movement-Premitives/tree/main/Demonstations)
+Refer to demonstation dir (https://github.com/ayan-kundu/Mycobot-280-pi/tree/main/Demonstrations)
 
 
 **Pick-n-place _Learning curves_:-**
